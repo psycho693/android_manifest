@@ -305,7 +305,7 @@
   <project path="vendor/tmobile/products/themes" name="CyanogenMod/android_vendor_tmobile_products_themes" remote="github" revision="jellybean" />
   <project path="vendor/cna" name="DKOSP/proprietary_vendor_dkosp" remote="github" revision="jellybean" />
   <project path="tools" name="DKOSP/android_tools" remote="github" revision="jellybean" />
-  <project path="android" name="DKOSP/android_manifest" remote="github" revision="jellybean" />
+  <project path="android" name="DKOSP/android_manifest" remote="github" revision="master" />
 
 
 
