@@ -5,9 +5,9 @@
            fetch="https://android.googlesource.com/" />
 
   <remote name="github"
-            fetch="git://github.com/DKOSP/"
+           fetch=".." />
 
-   <default revision="refs/tags/android-4.1.2_r1"
+  <default revision="refs/tags/android-4.1.2_r1"
            remote="aosp"
            sync-j="4" />
 
