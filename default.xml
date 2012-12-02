@@ -174,7 +174,7 @@
   <project path="external/zlib" name="DKOSP/android_external_zlib" remote="github" revision="jellybean" />
   <project path="external/zxing" name="platform/external/zxing" />
   <project path="frameworks/av" name="DKOSP/android_frameworks_av" remote="github" revision="jellybean" />
-  <project path="frameworks/base" name="DKOSP/android_frameworks_base" remote="github" revision="jellybean" />
+  <project path="frameworks/base" name="DKOSP/android_frameworks_base" remote="github" revision="master" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" />
   <project path="frameworks/compile/linkloader" name="platform/frameworks/compile/linkloader" />
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" />
