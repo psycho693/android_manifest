@@ -29,6 +29,8 @@
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" />
   <project path="device/sample" name="device/sample" />
+  <project path="device/htc/msm8660-common" name="DKOSP/android_device_htc_msm8660-common" remote="github" revision="master"/>
+  <project path="device/htc/pyramid" name="DKOSP/android_device_htc_pyramid" remote="github" revision="master" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
   <project path="external/aac" name="platform/external/aac" />
   <project path="external/android-mock" name="platform/external/android-mock" />
