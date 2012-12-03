@@ -279,7 +279,7 @@
   <project path="prebuilts/tools" name="platform/prebuilts/tools" />
   <project path="sdk" name="DKOSP/android_sdk" remote="github" revision="jellybean" />
   <project path="system/bluetooth" name="DKOSP/android_system_bluetooth" remote="github" revision="jellybean" />
-  <project path="system/core" name="DKOSP/android_system_core" remote="github" revision="jellybean" />
+  <project path="system/core" name="DKOSP/android_system_core" remote="github" revision="master" />
   <project path="system/extras" name="DKOSP/android_system_extras" remote="github" revision="jellybean" />
   <project path="system/media" name="platform/system/media" />
   <project path="system/netd" name="platform/system/netd" />
