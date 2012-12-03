@@ -278,7 +278,6 @@
   <project path="prebuilts/sdk" name="platform/prebuilts/sdk" />
   <project path="prebuilts/tools" name="platform/prebuilts/tools" />
   <project path="vendor/htc" name="DKOSP/android_vendor_htc" remote="github" revision="master" />
-  <project path="vendor/dkos" name="DKOSP/android_vendor_dkos" remote="github" revision="master"/>
   <project path="sdk" name="DKOSP/android_sdk" remote="github" revision="jellybean" />
   <project path="system/bluetooth" name="DKOSP/android_system_bluetooth" remote="github" revision="jellybean" />
   <project path="system/core" name="DKOSP/android_system_core" remote="github" revision="jellybean" />
@@ -306,7 +305,7 @@
   <project path="vendor/tmobile/products/themes" name="CyanogenMod/android_vendor_tmobile_products_themes" remote="github" revision="jellybean" />
   <project path="tools" name="DKOSP/android_tools" remote="github" revision="jellybean" />
   <project path="android" name="DKOSP/android_manifest" remote="github" revision="master" />
-   <project path="kernel/htc/msm8660" name="DKOSP/android_kernel_htc_msm8660" remote="github" revision="master" />
-
+  <project path="kernel/htc/msm8660" name="DKOSP/android_kernel_htc_msm8660" remote="github" revision="master" />
+  <project path="vendor/dkos" name="DKOSP/proprietary_vendor_dkos" remote="github" revision="master" />
 
 </manifest>
