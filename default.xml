@@ -229,7 +229,7 @@
   <project path="packages/apps/PackageInstaller" name="platform/packages/apps/PackageInstaller" />
   <project path="packages/apps/Phone" name="DKOSP/android_packages_apps_Phone" remote="github" revision="jellybean" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
-  <project path="packages/apps/Settings" name="DKOSP/android_packages_apps_Settings" remote="github" revision="jb-release" />
+  <project path="packages/apps/Settings" name="DKOSP/android_packages_apps_Settings" remote="github" revision="master" />
   <project path="packages/apps/SoundRecorder" name="platform/packages/apps/SoundRecorder" />
   <project path="packages/apps/SpeechRecorder" name="platform/packages/apps/SpeechRecorder" />
   <project path="packages/apps/Stk" name="DKOSP/android_packages_apps_Stk" remote="github" revision="jellybean" />
